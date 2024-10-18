@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @preethujohnson
-- 👀 I’m interested in data analytucs, data visualization and playing with data.
+- 👀 I’m interested in data analytics, data visualization and playing with data.
 - 🌱 I’m currently learning Programming and Data Science, an online degree program from IIT Madras
 - 💞️ I’m looking to collaborate on entry level posts for a data analyst
 - 📫 Reach me @http://www.linkedin.com/in/preethujohnson , preethujohns@gmail.com
